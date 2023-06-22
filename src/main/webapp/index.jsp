@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>this is a configuration of jenkins automation with ansible and tomcat-apache successfully done. </h2>
+<h1> this is a jenkins automation with ansible. which is successfully configured .</h2>
 </body>
 </html>
